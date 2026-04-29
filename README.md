@@ -10,6 +10,14 @@ The main question I wanted to answer was:
 
 To approach this, I worked with raw survey data, applied weights, performed statistical testing, and finally built a dashboard to visualize the story.
 
+## 🌐 Live Dashboard
+
+You can explore the interactive dashboard here:
+
+🔗 https://odisha-employment-plfs-2024-2025-analysis.streamlit.app/
+
+This dashboard presents a clean, interactive view of employment trends across sectors, gender, and rural-urban segments using PLFS data.
+
 ---
 
 ## 🧠 What I Tried to Do
@@ -159,7 +167,7 @@ p-value ≈ 0
 
 ---
 
-## 🖥️ Dashboard
+## 🖥️ Dashboard (Interactive + Live)
 
 I built a Streamlit dashboard to make the analysis easier to explore.
 
