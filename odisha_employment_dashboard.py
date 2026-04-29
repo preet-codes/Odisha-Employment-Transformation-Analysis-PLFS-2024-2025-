@@ -41,7 +41,7 @@ st.markdown("### PLFS 2024–2025 Analysis")
 # Using cache so file is not reloaded every time
 @st.cache_data
 def load_data():
-    return pd.read_csv("/data/PLFS_ODISHA_FINAL.csv")
+    return pd.read_csv("data/PLFS_ODISHA_FINAL.csv")
 
 df = load_data()
 
